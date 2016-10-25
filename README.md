@@ -29,7 +29,7 @@
 
 ##Drag & Drop
 <a href="http://jpeg.cz/images/2016/10/25/YmAX.png" target="_blank">
-<img src="http://jpeg.cz/images/2016/10/25/YmAX.png">
+<img src="http://jpeg.cz/images/2016/10/25/YmAX.png" width="50%">
 </a>
 -  i do částí, které **nemájí 100% šířku šablony**
 <br>
@@ -38,7 +38,7 @@
 
 ##Editace textů
 
-<a href="http://jpeg.cz/images/2016/10/25/Tmqj0.png" target="_blank"><img src="http://jpeg.cz/images/2016/10/25/Tmqj0.png"></a>
+<a href="http://jpeg.cz/images/2016/10/25/Tmqj0.png" target="_blank"><img src="http://jpeg.cz/images/2016/10/25/Tmqj0.png" width="50%"></a>
 
 - mimo tělo šablony = **mnohem lepší použitelnost**, protože:
 	- šířka editoru textu je vždy stejná pro všechny prvky
@@ -52,7 +52,7 @@
 
 ## Editace obrázků
 
-<a href="http://jpeg.cz/images/2016/10/25/2SCIc.png" target="_blank"><img src="http://jpeg.cz/images/2016/10/25/2SCIc.png"></a>
+<a href="http://jpeg.cz/images/2016/10/25/2SCIc.png" target="_blank"><img src="http://jpeg.cz/images/2016/10/25/2SCIc.png" width="50%"></a>
 
 - malý "**Photoshop**" pro editaci obrázků
 		- změna velikosti
@@ -65,9 +65,12 @@
 
 ## Co MailChimp neumí
 
+
 <a href="http://jpeg.cz/images/2016/10/25/Po9fS.png target="_blank">
-<img src="http://jpeg.cz/images/2016/10/25/Po9fS.png">
+<img src="http://jpeg.cz/images/2016/10/25/Po9fS.png" width="50%">
 </a>
+
+
 
 - **rozdělovat šablonu do více sloupců behěm editace** šablon
 	- na začátku si user vybere layout a ten už nejde změnit
@@ -97,13 +100,19 @@
 <br>
 
 ## Tvorba formu
-- **hodně prednastavených možností** **podle použití**
+
+
 <a href="http://jpeg.cz/images/2016/10/25/sUb3D.png" target="_blank">
-<img src="http://jpeg.cz/images/2016/10/25/sUb3D.png">
+<img src="http://jpeg.cz/images/2016/10/25/sUb3D.png" width="50%">
 </a>
+
+
+- **hodně prednastavených možností** **podle použití**
 
 - žádné šablony, **user si vše nastavuje sám** (vzhled, rozložení...)
 	- ale na začátku je nutno vybrat, o jaký typ formu se bude jednat (klasika vs pop up)
+
+
 <br>
 <br>
 <br>
