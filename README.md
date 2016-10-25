@@ -1,3 +1,4 @@
+---
 **Šablony**
 ===
 
@@ -8,21 +9,35 @@
 ## Vzhled a struktura
 - Mnohem **jednodušší struktura šablon** (ne tak dlouhé, méně prvků na přidání)
 
+<br>
+<br>
+<br>
 <hr>
+<br>
+<br>
+<br>
+
+
 
 # **Editace šablon**
 
-###"full screen" editace
+##"full screen" editace
 - mnohem lepší dojem z editaci na mobilech a tabletech
 - nepůsobí to tak ztísněně
+<br>
+<br>
+<br>
 
-###Drag & Drop
+##Drag & Drop
 <a href="http://jpeg.cz/images/2016/10/25/YmAX.png" target="_blank">
 <img src="http://jpeg.cz/images/2016/10/25/YmAX.png">
 </a>
 -  i do částí, které **nemájí 100% šířku šablony**
+<br>
+<br>
+<br>
 
-###Editace textů
+##Editace textů
 
 <a href="http://jpeg.cz/images/2016/10/25/Tmqj0.png" target="_blank"><img src="http://jpeg.cz/images/2016/10/25/Tmqj0.png"></a>
 
@@ -32,8 +47,11 @@
 	- v SmartEditoru je problém "ochranné vzdálenosti" mezi textem a ostatními prvky
 		- = dá se jednodušše překliknout vedle "prvku" a tím ukončit editaci
 		- jednodušší označování textů myší
+<br>
+<br>
+<br>
 
-### Editace obrázků
+## Editace obrázků
 
 <a href="http://jpeg.cz/images/2016/10/25/2SCIc.png" target="_blank"><img src="http://jpeg.cz/images/2016/10/25/2SCIc.png"></a>
 
@@ -42,6 +60,9 @@
 		- změna barev
 		- ořezávání
 		- psaní textů do obrázků
+<br>
+<br>
+<br>
 
 ## Co MailChimp neumí
 
@@ -52,7 +73,14 @@
 - **rozdělovat šablonu do více sloupců behěm editace** šablon
 	- na začátku si user vybere layout a ten už nejde změnit
 
----
+<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+<br>
+
 
 # **Webové formuláře**
 
@@ -65,6 +93,9 @@
 	- Wufoo ?
 	- Squarespace ?
 
+<br>
+<br>
+<br>
 
 ## Tvorba formu
 - **hodně prednastavených možností** **podle použití**
@@ -74,6 +105,9 @@
 
 - žádné šablony, **user si vše nastavuje sám** (vzhled, rozložení...)
 	- ale na začátku je nutno vybrat, o jaký typ formu se bude jednat (klasika vs pop up)
+<br>
+<br>
+<br>
 
 ## Technicky
 - kódy web formů jsou mnohem jednodušší
